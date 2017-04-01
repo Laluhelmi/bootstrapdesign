@@ -1,0 +1,24 @@
+.img-responsive{
+
+}
+.kuliah{
+  text-decoration: none;
+  color: #111111;
+}
+a:focus{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;;
+}
+a:hover{
+  text-decoration: none;;
+}
+.news-item{
+  min-height:112px;
+  background-color:#efefef;
+  padding: 10px;
+}
+.muted{
+  color: #efefef;
+}
