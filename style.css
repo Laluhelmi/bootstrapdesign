@@ -1,6 +1,12 @@
 .img-responsive{
 
 }
+.a-tanggal{
+  color: #a5a3a0;
+}
+.atas{
+  background-color: #edcfa8;
+}
 .kuliah{
   text-decoration: none;
   color: #111111;
@@ -21,4 +27,10 @@ a:hover{
 }
 .muted{
   color: #efefef;
+}
+.ratings{
+  margin-top: 20px;
+}
+.hariini{
+  color:#56c6ef;
 }
