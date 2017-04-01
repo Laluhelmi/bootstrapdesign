@@ -17,6 +17,9 @@ a:focus{
 a:visited{
   text-decoration: none;;
 }
+.t{
+  list-style: none;
+}
 a:hover{
   text-decoration: none;;
 }
