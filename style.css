@@ -1,8 +1,5 @@
 body{
-  background-color: #dbdbdb;
-}
-.a-tanggal{
-  color: #a5a3a0;
+ background-color: #dbdbdb;
 }
 .atas{
   background-color: #edcfa8;
@@ -13,6 +10,11 @@ body{
   bottom: -198;
 
 }
+p.berita{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14.5px;
+}
+
 hr.style-one {
 
       border: 0;
@@ -59,4 +61,28 @@ a:hover{
 }
 .hariini{
   color:#56c6ef;
+}
+.thumbnail{
+  min-height: 305px;
+}
+.a-tanggal{
+  color: #a5a3a0;
+}
+.spantanggal{
+  margin-top: 13px;
+}
+.btn{
+  border-color: #dee6ed;
+}
+a.readmore{
+  font-size: 13px;
+  padding-left: 5px;
+  padding-top: 2px;
+  padding-right: 14px;
+  padding-bottom: 2px;
+  background :linear-gradient(to right, #42f4b6 , #2ee8e1);
+  border-radius: 2px;
+  -webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
 }
