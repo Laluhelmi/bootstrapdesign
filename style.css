@@ -86,3 +86,12 @@ a.readmore{
   -moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
 }
+.menuutama{
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #9fba84;
+}
+.navbarduacostum{
+  border-color:#f7f7f7;
+  border-radius:0px;
+}
