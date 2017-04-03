@@ -29,7 +29,8 @@ hr.style-one {
   font-size: 15px;
 }
 .judul-artikel{
-  min-height: 55px;
+  height: 55px;
+  font-size: 13px;
 }
 .kuliah{
   text-decoration: none;
