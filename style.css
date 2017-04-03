@@ -90,7 +90,8 @@ a.readmore{
 .menuutama{
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #9fba84;
+  margin-bottom: -1px;
+  border-bottom-color: #a38c25;
 }
 .navbarduacostum{
   border-color:#f7f7f7;
