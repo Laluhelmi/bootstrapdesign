@@ -93,6 +93,11 @@ a.readmore{
   margin-bottom: -1px;
   border-bottom-color: #a38c25;
 }
+.item-statistik{
+
+    font-family: Times, serif;
+  font-size: 12px;
+}
 .navbarduacostum{
   border-color:#f7f7f7;
   border-radius:0px;
